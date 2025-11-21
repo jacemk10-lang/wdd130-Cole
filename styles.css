@@ -1,8 +1,8 @@
-@import url("Mountain.ttf");
+@import url("fonts/Mountain.ttf");
 
 @font-face {
     font-family: Mountain;
-    src: url(Mountain.ttf);
+    src: url(fonts/Mountain.ttf);
 }
 
 * {
